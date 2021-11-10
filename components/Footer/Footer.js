@@ -181,9 +181,6 @@ function Footer() {
           <br />
           Copyright©2021 "Company name", All rights reserved Smart Chain Holding
           Corporation.
-          <br />
-          Company No: 2075222 Intershore Chambers, Road Town, Tortola, British
-          Virgin Islands
         </p>
       </div>
     </div>
