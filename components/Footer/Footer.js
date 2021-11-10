@@ -176,10 +176,10 @@ function Footer() {
       </div>
       <div className="container mx-auto text-center pt-10 text-gray-400">
         <p>
-          Aqarchain.io is currently operational in beta version, we appreciate
+          "Company name"is currently operational in beta version, we appreciate
           your feedback and support through our telegram channel.
           <br />
-          Copyright©2021 aqarchain.io, All rights reserved Smart Chain Holding
+          Copyright©2021 "Company name", All rights reserved Smart Chain Holding
           Corporation.
           <br />
           Company No: 2075222 Intershore Chambers, Road Town, Tortola, British

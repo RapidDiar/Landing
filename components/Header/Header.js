@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="min-w-full border-b-2 bg-white">
+    <div className="min-w-full border-b-2 bg-white fixed">
       <div className="container mx-auto flex flex-row justify-between">
         <div className="self-center">
           <p className="font-sans text-3xl">Logo</p>
