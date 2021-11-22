@@ -31,7 +31,7 @@ function Hero() {
             View Demo
           </button>
         </div>
-        <div className="w-2/4"></div>
+        <div className="w-2/4">IMAGE</div>
       </div>
     </div>
   );
